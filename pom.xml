@@ -657,7 +657,7 @@
             <dependency>
                 <groupId>org.apache.shiro</groupId>
                 <artifactId>shiro-servlet-plugin</artifactId>
-                <version>1.4.0-SNAPSHOT</version>
+                <version>1.7.1</version>
             </dependency>
 
             <!-- Shiro 3rd party support (keep this alphabetically ordered based on the artifactId please): -->
@@ -699,7 +699,7 @@
             <dependency>
                 <groupId>org.apache.shiro</groupId>
                 <artifactId>shiro-jaxrs</artifactId>
-                <version>1.4.0-SNAPSHOT</version>
+                <version>1.7.1</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.shiro</groupId>
