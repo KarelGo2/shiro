@@ -689,12 +689,12 @@
             <dependency>
                 <groupId>org.apache.shiro</groupId>
                 <artifactId>shiro-guice</artifactId>
-                <version>1.4.0-SNAPSHOT</version>
+                <version>1.8.0</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.shiro</groupId>
                 <artifactId>shiro-hazelcast</artifactId>
-                <version>1.4.0-SNAPSHOT</version>
+                <version>1.4.1</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.shiro</groupId>
